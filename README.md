@@ -13,8 +13,8 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5fyelei7pwlp6oj3wemhcx3u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5fyelei7pwlp6oj3wemhcx3u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5fyelei7pwlp6oj3wemhcx3u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 
