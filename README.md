@@ -4,10 +4,9 @@
 
 - All my links are here **[https://guns.lol/elhex](https://guns.lol/elhex)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Elhexo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Elhexo" height="30" width="40" /></a>
-</p>
+<Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCU_VzbqgK7gBGm37VKO4W-g) 
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -20,6 +19,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ElHexo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+ ## You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/itshexo) 
+
+  
 
 
 <p align="center">
