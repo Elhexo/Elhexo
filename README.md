@@ -2,7 +2,7 @@
 
 - I'm currently learning **Unity, Discord bot and Json files**
 
-- All my links are here **[https://elhexo.github.io/**
+- All my links are here **https://elhexo.github.io/**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhexo&label=Profile%20views&color=0e75b6&style=flat" alt="elhexo" /> </p>
 
