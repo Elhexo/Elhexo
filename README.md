@@ -20,7 +20,9 @@
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/itshexo) -->
 
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/904399821580943420)](https://discord.com/users/904399821580943420)
+[![Discord Presence](https://lanyard.cnrad.dev/api/904399821580943420)](https://discord.com/users/904399821580943420hideDecoration=true)
+
+---
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5fyelei7pwlp6oj3wemhcx3u&redirect=true">
