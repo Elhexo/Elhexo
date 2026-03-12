@@ -25,11 +25,12 @@
 
 ---
 
-<p align="center">
+ <!--<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5fyelei7pwlp6oj3wemhcx3u&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5fyelei7pwlp6oj3wemhcx3u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
-</p>
+</p>-->
+ <!--Maybe i will use it again later-->
 
 
 
